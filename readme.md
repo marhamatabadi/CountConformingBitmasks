@@ -3,7 +3,7 @@
 
 This solution aims to address the **ConformingBitmasks** problem.
  **What exactly is the Conforming Bitmasks?**
-In this problem we consider unsigned 30-bit integers, i.e. all integers B such that 0 = B < 230.
+In this problem we consider unsigned 30-bit integers, i.e. all integers B such that 0 = B < 2^30.
 
 
 We say that integer A conforms to integer B if, in all positions where B has bits set to 1, A has corresponding bits set to 1.
